@@ -6,7 +6,7 @@
 
 * 📌 Moro em Juiz de Fora-MG.
 * 🎓 Acadêmico em Bacharelado em Sistemas de Informações pelo Instituto Federal do Sudeste de Minas Gerais.
-* 💻 Atualmente estudando ReactJS. Mas posso te ajudar com Java, C e JavaScript.
+* 💻 Atualmente estudando ReactJS, mas posso te ajudar com Java, C e JavaScript.
 * 🎯 Focado em me tornar um front-end developer.
 
 ## Alguns fatos sobre mim
