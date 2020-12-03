@@ -9,7 +9,7 @@
 * 💻 Atualmente estudando ReactJS. Mas posso te ajudar com Java, C e JavaScript.
 * 🎯 Focado em me tornar um front-end developer.
 
-## Sobre mim
+## Alguns fatos sobre mim
 
 * 🎮 No meu tempo livre gosto de me divertir jogando.
 * 🐶 Amo meu cachorro Greg.
