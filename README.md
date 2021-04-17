@@ -8,6 +8,7 @@
 * 🎓 Acadêmico em Bacharelado em Sistemas de Informações pelo Instituto Federal do Sudeste de Minas Gerais.
 * 💻 Atualmente estudando ReactJS, mas posso te ajudar com Java e C.
 * 🎯 Estudando constatemente para me tornar front-end developer especialista em React.
+* 💼 Trabalhando na [Rbm Web - Sistemas Inteligentes](https://site.rbmweb.com.br/)
 
 ## Alguns fatos sobre mim
 
